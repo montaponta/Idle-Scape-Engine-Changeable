@@ -59,6 +59,6 @@ public enum ResourceAnimationType
 
 public enum PrefabType
 {
-    none, craftBar, panelContainer, openResourceProducerPanel, openContainerResourcePanel,
-    needResourcePanel, resourceCountPanel, resourceProducerPanel
+    none, panelContainer, openResourceProducerPanel, openContainerResourcePanel,
+    needResourcePanel, resourceCountPanel, resourceProducerPanel, progressBarPrefab
 }

@@ -57,6 +57,11 @@ public enum ResourceAnimationType
     none, scale, treeVibration
 }
 
+public enum NeedConditionType
+{
+    none, collectableResource, craftItem, inventory
+}
+
 public enum PrefabType
 {
     none, panelContainer, openResourceProducerPanel, openContainerResourcePanel,

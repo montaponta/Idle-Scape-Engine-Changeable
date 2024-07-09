@@ -67,3 +67,8 @@ public enum PrefabType
     none, panelContainer, openResourceProducerPanel, openContainerResourcePanel,
     needResourcePanel, resourceCountPanel, resourceProducerPanel, progressBarPrefab
 }
+
+public enum TrasportTargetType
+{
+    none, expedition
+}
